@@ -8,7 +8,10 @@ Map Cell: C2
 
 ### Great Fairy Fountains
 Location: East of Hyrule Cemetery (North Hyrule)  
-Notes: Cut patch of grass near cave entrance  
+Notes: Cut patch of grass near cave entrance
+
+Location: Eastern Palace (East Hyrule)  
+Notes: Enter cave just before the Palace
 
 ### Other Health-restoring Places
 Location: Magic Shop (North-East Hyrule)  
