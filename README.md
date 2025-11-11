@@ -11,7 +11,7 @@ Location: East of Hyrule Cemetery (North Hyrule)
 Notes: Cut patch of grass near cave entrance
 
 Location: Eastern Palace (East Hyrule)  
-Notes: Enter cave facing Lake Hylia
+Notes: Enter cave south of Eatern Palace (facing Lake Hylia)
 
 ### Small Fairy Fountains
 Location: Eastern Palace (East Hyrule)  
