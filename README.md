@@ -13,6 +13,10 @@ Notes: Cut patch of grass near cave entrance
 Location: Eastern Palace (East Hyrule)  
 Notes: Enter cave facing Lake Hylia
 
+### Small Fairy Fountains
+Location: Eastern Palace (East Hyrule)  
+Notes: Enter cave south-east of Eastern Palace  
+
 ### Other Health-restoring Places
 Location: Magic Shop (North-East Hyrule)  
 Notes: Talk to clerk inside magic shop
