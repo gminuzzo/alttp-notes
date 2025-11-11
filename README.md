@@ -4,4 +4,4 @@
 Location: Hyrule Castle Dungeon  
 Notes: Access from throne room  
 Dungeon Level: B1  
-Map Cell: C3
+Map Cell: C2
