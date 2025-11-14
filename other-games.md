@@ -11,7 +11,7 @@ Oracle of Ages/Seasons (2001)
 Minish Cap (2004)  
 
 ### Pokemon games
-Red/Green (1996)  
-Gold/Silver (1999)  
+Red/Green (+ Super GameBoy) (1996)  
+Gold/Silver (+ Super GameBoy) (1999)  
 Ruby/Sapphire (2002)  
 FireRed/LeafGreen (2004)  
