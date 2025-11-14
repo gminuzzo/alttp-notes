@@ -7,7 +7,7 @@ Tales of Phantasia (1995)
 
 ## 1994 - 2005 (PS1/N64/SS era)
 Final Fantasy VII (1997)  
-Tales of Destiny (1997)
+Tales of Destiny (1997)  
 Xenogears (1998)  
 Ocarina of Time (1998)  
 Final Fantasy VIII (1999)  
