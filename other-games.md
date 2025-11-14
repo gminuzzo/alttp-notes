@@ -2,7 +2,7 @@
 
 ## 1990 - 2000 (SNES era)
 A Link to the Past (1991) 
-Final Fantasy VI (1994)
+Final Fantasy VI (1994)  
 Tales of Phantasia (1995)  
 
 ## 1994 - 2005 (PS1/N64/SS era)
