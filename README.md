@@ -20,8 +20,8 @@ Notes: Bomb wall blocked by rock
 Location: Eastern Palace (East Hyrule)  
 Notes: Enter cave south-east of Eastern Palace  
 
-Location: Cave north-east of Lake Hylia (South-East Hyrule9
-Notes: There's a wall to bomb to access the fountain
+Location: Cave north-east of Lake Hylia (South-East Hyrule)  
+Notes: Bomb wall to access fountain  
 
 ### Other Health-restoring Places
 Location: Magic Shop (North-East Hyrule)  
