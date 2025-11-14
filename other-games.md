@@ -7,7 +7,7 @@ A Link to the Past (1991)
 Link's Awakening (1993)  
 Ocarina of Time (1998)    
 Majora's Mask (2000)  
-Oracle of Ages and Seasons (2001)  
+Oracle of Ages/Seasons (2001)  
 Minish Cap (2004)  
 
 ### Pokemon games
