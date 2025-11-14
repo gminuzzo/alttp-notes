@@ -4,7 +4,7 @@
 
 ### Zelda games
 A Link to the Past (1991)  
-Link's Awakening (1993)  
+Link's Awakening (+ Super GameBoy) (1993) 
 Ocarina of Time (1998)    
 Majora's Mask (2000)  
 Oracle of Ages/Seasons (2001)  
