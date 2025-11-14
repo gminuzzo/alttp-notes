@@ -13,6 +13,5 @@ Minish Cap (2004)
 ### Pokemon games
 Red/Green (1996)  
 Gold/Silver (1999)  
-Snap (1999)  
 Ruby/Sapphire (2002)  
 FireRed/LeafGreen (2004)  
