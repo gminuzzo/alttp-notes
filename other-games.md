@@ -1,8 +1,8 @@
-### Other games to play and confront with
+# Other games to play and confront with
 
 ## 1990 - 2005 (16 and 32-bit era)
 
-# Zelda games
+### Zelda games
 A Link to the Past (1991)  
 Link's Awakening (1993)  
 Ocarina of Time (1998)    
