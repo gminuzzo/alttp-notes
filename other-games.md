@@ -1,7 +1,7 @@
 ### Other games to play and confront with
 
 ## 1990 - 2000 (SNES era)
-A Link to the Past (1991) 
+A Link to the Past (1991)  
 Final Fantasy VI (1994)  
 Tales of Phantasia (1995)  
 
