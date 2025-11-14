@@ -5,7 +5,7 @@ A Link to the Past (1991)
 
 ## 1994 - 2005 (PS1/N64/SS era)
 Final Fantasy VII (1997)  
-Xenogears (1998)
+Xenogears (1998)  
 Ocarina of Time (1998)  
 Final Fantasy VIII (1999)  
 Majora's Mask (2000)  
