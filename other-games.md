@@ -9,3 +9,9 @@ Ocarina of Time (1998)
 Majora's Mask (2000)  
 Oracle of Ages and Seasons (2001)  
 Minish Cap (2004)  
+
+### Pokemon games
+Red/Green (1996)  
+Gold/Silver (1999)  
+Ruby/Sapphire (2002)  
+FireRed/LeafGreen (2004)  
